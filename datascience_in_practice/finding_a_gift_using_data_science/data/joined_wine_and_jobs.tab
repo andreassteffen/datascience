@@ -1,21 +1,21 @@
-Name	Label	Taste	Gender	Personality	eat_in_or_out	Job	Bodysize
-Peter	red	sweet	male	introvert	in	medical doctor	170
-Andreas	white	spicy	male	extrovert	in	data scientist	182
-James	red	sweet	male	extrovert	in	preacher man	190
-Jim	white	spicy	male	introvert	out	professor	188
-John	white	spicy	male	extrovert	out	post office officer	176
-Daniel	white	hot	male	extrovert	in	captain	198
-Catherine	rose	hot	female	extrovert	out	director	167
-Paula	rose	hot	female	introvert	out	teacher	174
-Adrian	red	sweet	male	extrovert	in	IT professional	190
-Maria	red	sweet	female	extrovert	in	nurse	165
-Ben	white	sweet	male	introvert	out	medical doctor	179
-Zac	white	sour	male	introvert	in	teacher	195
-Hans	red	sweet	male	extrovert	out	preacher man	167
-Ian	red	sour	male	introvert	in	analyst	188
-Ralf	red	sour	male	extrovert	out	consultant	180
-Ortrud	white	sour	female	introvert	out	professor	167
-Lilly	white	sweet	female	introvert	in	train operator	176
-Georgina	rose	hot	male	introvert	out	adventurer	155
-Patricia	white	spicy	female	extrovert	out	musician	164
-Xavier	rose	spicy	male	extrovert	in	salesman	186
+	Name	Label	Taste	Gender	Personality	eat_in_or_out	Job	Bodysize
+0	Peter	red	sweet	male	introvert	in		
+1	Andreas	white	spicy	male	extrovert	in		
+2	James	red	sweet	male	extrovert	in		
+3	Jim	white	spicy	male	introvert	out		
+4	John	white	spicy	male	extrovert	out		
+5	Daniel	white	hot	male	extrovert	in		
+6	Catherine	rose	hot	female	extrovert	out		
+7	Paula	rose	hot	female	introvert	out		
+8	Adrian	red	sweet	male	extrovert	in		
+9	Maria	red	sweet	female	extrovert	in		
+10	Ben	white	sweet	male	introvert	out		
+11	Zac	white	sour	male	introvert	in		
+12	Hans	red	sweet	male	extrovert	out		
+13	Ian	red	sour	male	introvert	in		
+14	Ralf	red	sour	male	extrovert	out		
+15	Ortrud	white	sour	female	introvert	out		
+16	Lilly	white	sweet	female	introvert	in		
+17	Georgina	rose	hot	male	introvert	out		
+18	Patricia	white	spicy	female	extrovert	out		
+19	Xavier	rose	spicy	male	extrovert	in		
